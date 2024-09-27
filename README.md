@@ -2,4 +2,4 @@
 
 * [Enlace a la otra página](prueba.md)
 
-  ![Descipción de la imagen](assests/descarga.jpeg)
+  ![Descipción de la imagen](assets/descarga.jpeg)
