@@ -12,4 +12,4 @@
 
 El jugador elige una [clase de personaje](clases.md)  al inicio del juego, lo cual determina los hechizos y equipamiento con el que comienza la partida. El combate contra los enemigos puede ser a melé o a distancia usando armas a distancia o hechizos. Se puede bloquear los ataques de los enemigos mediante escudos o esquivando. Los hechizos permiten al jugador fortalecer sus armas, combatir a los enemigos a distancia o recuperar puntos de salud. En Elden Ring las armas se pueden mejorar utilizando las Cenizas de Guerra, objetos que añaden nuevas habilidades a las armas. Las Cenizas de Guerra se pueden aplicar o retirar en las armas, y cada Ceniza añade un Arte de Combate, una habilidad especial que puede ser utilizada en combate.​ Además del combate directo, las mecánicas de sigilo se pueden utilizar para evitar a los enemigos o acercarse a estos para realizar un ataque crítico escondido.
 
-* [volver atras](README.md)
+* [Volver atras](README.md)
