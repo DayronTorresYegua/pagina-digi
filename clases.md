@@ -4,8 +4,8 @@ Las clases en Elden Ring sirven como arquetipos iniciales que están disponibles
 
 | Héroe     | Bandido      | Astrólogo      | Guerrero      | Samurái    |
 |--------------|--------------|--------------|--------------|--------------|
-| ![Heroe](assets/heroe.png) | ![Imagen 2](assets/bandido.webp) | ![Imagen 3](assets/astrologo.png) | ![Imagen 4](assets/guerrero.webp) |  ![Imagen 10](assets/samurai.webp) |
+| ![Heroe](assets/heroe.png) | ![Bandido](assets/bandido.webp) | ![Astrólogo](assets/astrologo.png) | ![Guerrero](assets/guerrero.webp) |  ![Samurái](assets/samurai.webp) |
 | Prisionero     | Confesor     | Miserable      | Vagante      |  Profeta      |
-| ![Imagen 5](assets/prisionero.png) | ![Imagen 6](assets/confesor.png) | ![Imagen 7](assets/miserable.png) | ![Imagen 8](assets/vagante.webp) | ![Imagen 9](assets/profeta.webp) |
-|
+| ![Prisionero](assets/prisionero.png) | ![Confesor](assets/confesor.png) | ![Miserable](assets/miserable.png) | ![Vagante ](assets/vagante.webp) | ![Profeta](assets/profeta.webp) |
 
+* [Volver a página principal](inicio.md)
