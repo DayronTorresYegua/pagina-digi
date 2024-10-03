@@ -4,6 +4,8 @@
 
 **Elden Ring** es un videojuego de rol en acción desarrollado por la empresa FromSoftware y publicado por Bandai Namco Entertainment. El videojuego surge de una colaboración entre el director y diseñador *Hidetaka Miyazaki* y el novelista de fantasía *George R. R. martin*
 
+[Texto descriptivo]([URL_del_video](https://store.steampowered.com/app/1245620/ELDEN_RING/))
+
   ![Descipción de la imagen](assets/elden-ring-2741917.jpg)
 
 ## ¿De qué trata?
