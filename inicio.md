@@ -6,7 +6,7 @@
 
 [Video introductorio](https://youtu.be/YekdlQp-o60?si=xV0Cfl5GRdtx9ooY)
 
-  ![Descipción de la imagen](assets/elden-ring-2741917.jpg)
+  ![Descipción de la imagen](assets/elden-ring-2741917.jpg)](https://youtu.be/YekdlQp-o60?si=xV0Cfl5GRdtx9ooY)
 
 ## ¿De qué trata?
 
